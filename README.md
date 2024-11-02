@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning: React, JavaScript, TypeScript, Redux, CSS, SASS....
 
-- 📫 How to reach me: https://serj-y.github.io/my-portfolio/
+- 📫 How to reach me: https://portfolio.serhii.website
 
 <!---
 Serj-Y/Serj-Y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
